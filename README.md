@@ -1,5 +1,10 @@
 ## Hi! My name is Arthur 👋
 
+I'm a Computer Science undergraduate student, based in Fortaleza, Brazil. I'm studying Web Development and Linux at the time.
+
+[![arthurnunesc's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc)](https://github.com/anuraghazra/github-readme-stats)
+
+You can contact me on:
 <a href="mailto:arthurnunes@tutanota.com">
   <img align="left" alt="Arthur's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -18,8 +23,3 @@
 <a href="https://github.com/arthurnunesc">
   <img align="left" alt="Arthur's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br>
-
-I'm a Computer Science undergraduate student, based in Fortaleza, Brazil. I'm studying Web Development and Linux at the time.
-
-[![arthurnunesc's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc)](https://github.com/anuraghazra/github-readme-stats)
