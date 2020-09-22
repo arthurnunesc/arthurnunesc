@@ -17,9 +17,9 @@
 <a href="https://www.instagram.com/arthurnun.es/">
   <img align="left" alt="Arthur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br>
+<br><br>
 
-### My name is Arthur Nunes
+### My name is Arthur Nunes.
 - 🏡 I'm a Computer Science student based in Fortaleza, Brazil.
 - 🌱 I'm studying Web Development and Linux at the time.
 
