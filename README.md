@@ -1,5 +1,5 @@
 ## Hi! My name is Arthur 👋
----
+
 <a href="mailto:arthurnunes@tutanota.com">
   <img align="left" alt="Arthur's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -20,12 +20,6 @@
 </a>
 <br>
 
-
-
-- I'm a Computer Science student based in Fortaleza, Brazil.
-
-- I'm studying Web Development and Linux at the time.
-
-- I'm also interested in Open-source, Python and Golang.
+I'm a Computer Science undergraduate student, based in Fortaleza, Brazil. I'm studying Web Development and Linux at the time.
 
 [![arthurnunesc's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc)](https://github.com/anuraghazra/github-readme-stats)
