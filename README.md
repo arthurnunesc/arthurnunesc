@@ -1,4 +1,5 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 <a href="mailto:arthurnunes@tutanota.com">
   <img align="left" alt="Arthur's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
@@ -20,8 +21,11 @@
 <br><br>
 
 ### My name is Arthur Nunes.
+
 - 🏡 I'm a Computer Science student based in Fortaleza, Brazil.
 - 🌱 I'm studying Web Development and Linux at the time.
 - 🌐 My personal website is hosted at [arthurnun.es](https://arthurnun.es/), check it out!
 
-[![arthurnunesc's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur Nunes's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc&hide=prs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnunesc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
