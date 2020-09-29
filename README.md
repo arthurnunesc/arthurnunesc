@@ -26,6 +26,6 @@
 - 🌱 I'm studying Web Development and Linux at the time.
 - 🌐 My personal website is hosted at [arthurnun.es](https://arthurnun.es/), check it out!
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnunesc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Arthur Nunes's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc&hide=prs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnunesc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Arthur Nunes's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
