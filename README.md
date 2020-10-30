@@ -15,15 +15,12 @@
 <a href="https://twitter.com/arthurnunesc">
   <img align="left" alt="Arthur's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/arthurnun.es/">
-  <img align="left" alt="Arthur's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br><br>
 
 ### My name is Arthur Nunes.
 
 - 🏡 I'm a Computer Science student based in Fortaleza, Brazil.
-- 🌱 I'm studying Web Development and Linux at the time.
+- 🌱 I'm studying Linux and Web Development at the time.
 - 🌐 My personal website is hosted at [arthurnun.es](https://arthurnun.es/), check it out!
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnunesc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Arthur Nunes's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
