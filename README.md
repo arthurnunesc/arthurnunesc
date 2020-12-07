@@ -17,7 +17,7 @@
 </a>
 <br><br>
 
-### My name is Arthur Nunes.
+### Meu nome é Arthur Nunes.
 
 - 🏡 Sou um estudante de Ciência da Computação que mora en Fortaleza, Brasil.
 - 🌱 Estou estudando Linux e Desenvolvimento Web no momento.
