@@ -19,7 +19,7 @@
 
 ### Meu nome é Arthur Nunes.
 
-- 🏡 Sou um estudante de Ciência da Computação que mora en Fortaleza, Brasil.
+- 🏡 Sou um estudante de Ciência da Computação que mora em Fortaleza, Brasil.
 - 🌱 Estou estudando Linux e Desenvolvimento Web no momento.
 - 🌐 Meu site pessoal tá hosteado aqui: [arthurnun.es](https://arthurnun.es/). Dá uma olhada nele, feedback sempre é bem vindo!
 
