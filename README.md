@@ -20,9 +20,8 @@
 ### Meu nome é Arthur Nunes.
 
 - 🏡 Sou um estudante de Ciência da Computação que mora em Fortaleza, Brasil.
-- 🌱 Estou estudando Linux e Desenvolvimento Web no momento.
+- 🌱 Estou estudando POO no momento.
 - 🌐 Meu site pessoal tá hosteado aqui: [arthurnun.es](https://arthurnun.es/). Dá uma olhada nele, feedback sempre é bem vindo!
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnunesc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Arthur Nunes's github stats](https://github-readme-stats.vercel.app/api?username=arthurnunesc&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnunesc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
