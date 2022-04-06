@@ -17,11 +17,7 @@
 </a>
 <br><br>
 
-### Meu nome é Arthur Nunes.
-
-- 🏡 Sou um estudante de Ciência da Computação.
-- 🌱 Estou estudando Blockchain no momento.
-- 🌐 Meu site pessoal tá hosteado aqui: [arthurnun.es](https://arthurnun.es/). Feedback é sempre bem-vindo!
+- 🌐 Meu site pessoal tá hosteado aqui: [arthurnun.es](https://arthurnun.es/).
 
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnunesc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
