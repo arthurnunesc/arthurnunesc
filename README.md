@@ -8,12 +8,12 @@
 
 ### You can find me on 🌎
 
-[🚀: My website](https://arthurnun.es) <br>
-[🐦: Twitter](https://twitter.com/arthurnunesc) <br>
-[💼: LinkedIn](https://www.linkedin.com/in/arthurnunesc) <br>
+🚀: [My website](https://arthurnun.es) <br>
+🐦: [Twitter](https://twitter.com/arthurnunesc) <br>
+💼: [LinkedIn](https://www.linkedin.com/in/arthurnunesc) <br>
 
 ### And feel free to contact me via 🗣
 
-[📧: Email](mailto:arthurnunesc@proton.me) <br>
-[💬: Telegram](https://t.me/arthurnunesc) <br>
+📧: [Email](mailto:arthurnunesc@proton.me) <br>
+💬: [Telegram](https://t.me/arthurnunesc) <br>
 
