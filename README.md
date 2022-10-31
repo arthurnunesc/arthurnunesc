@@ -2,7 +2,7 @@
 
 ### I am working on 👨‍💻
 
-- [My new website](https://github.com/arthurnunesc/arthurnun.es).<br/>
+- [My new website](https://github.com/arthurnunesc/arthurnunesc-portfolio-website).<br/>
 - Studying more OOP to feel comfortable working with bigger codebases.
 - Getting to know more about SQL.
 
