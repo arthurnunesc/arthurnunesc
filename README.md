@@ -17,4 +17,5 @@
 | ------- | ----- | ------------ | -------- | ----------- | ------ |
 | [Anki + Arabic](https://github.com/arthurnunesc/arabic-web-scraper) | Backend  | BeatifulSoup, SQLite | WebScraping | Arabic webscraper + flashcard generator | On development |
 | [Accento](https://github.com/arthurnunesc/accento) | Backend | Python Counter | Sorting algorithms | Text analyser that takes also counts accents | On development |
+| [Portfolio Website](https://github.com/arthurnunesc/accento) | Frontend | HTML, CSS, JavaScript | Responsive Web Design | Basic portfolio website | Done |
 <!-- | [My portfolio website](https://github.com/arthurnunesc/arthurnunesc-portfolio-website) | Frontend | React, Sass, Vite    | BEM, JSX           | Portfolio Website to index my projects       | On development | -->
