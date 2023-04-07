@@ -15,7 +15,7 @@
 
 | Project | Scope | Technologies | Concepts | Description | Status |
 | ------- | ----- | ------------ | -------- | ----------- | ------ |
-| [Arabic Web Scraper](https://github.com/arthurnunesc/arabic-web-scraper) | Backend (Python) | BeatifulSoup, SQLite, Poetry | WebScraping | Arabic webscraper + flashcard generator | On development |
+| [Arabic.fi Scraper](https://github.com/arthurnunesc/arabic-web-scraper) | Backend (Python) | BeatifulSoup, SQLite, Poetry | WebScraping | Arabic webscraper + flashcard generator | On development |
 | [Fedora Post-install](https://github.com/arthurnunesc/fedora-postinstall) | Backend | Bash/Shell script | Linux internals, Changing system settings from the terminal | Post-install script that configures and installs everything on my Fedora systems | Done |
 | [Accento](https://github.com/arthurnunesc/accento) | Backend (Python) | Python Counter | Sorting algorithms | Text analyser that also counts accents | On development |
 | [Portfolio Website](https://github.com/arthurnunesc/arthurnunesc.github.io) | Frontend | HTML, CSS, JavaScript | Responsive Web Design | Responsive portfolio website with interactive hamburger menu | Done |
