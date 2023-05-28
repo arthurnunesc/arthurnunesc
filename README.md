@@ -6,8 +6,7 @@
 
 - You can contact me via [✉️ Email](mailto:arthurnunesc@proton.me) or [💬 Telegram](https://t.me/arthurnunesc). <br>
 - I blog about my journey in Tech in [dev.to](https://dev.to/arthurnunesc).
-- Here is my [💼 LinkedIn](https://www.linkedin.com/in/arthurnunesc). <br>
-- And I'm also on [🐦 Twitter](https://twitter.com/arthurnunesc) and [🐘 Mastodon](https://bolha.us/@arthurnunesc). <br>
+- You can find me on [💼 LinkedIn](https://www.linkedin.com/in/arthurnunesc). <br>
 
 ### An overview of some of my projects
 
