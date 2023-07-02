@@ -1,4 +1,4 @@
-### Hey there! I'm Arthur, a Data Collection Engineer at Centric Software 🐍
+### Hey there! I'm Arthur, a Data Collection Engineer 🐍
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 
