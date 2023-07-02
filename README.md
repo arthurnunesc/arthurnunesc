@@ -1,12 +1,12 @@
-### Hey there! I'm Arthur, a Python Developer 🐍
+### Hey there! I'm Arthur, a Data Collection Engineer at Centric Software 🐍
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 
 ### #OpenToWork.
 
-- You can contact me via [✉️ Email](mailto:arthurnunesc@proton.me) or [💬 Telegram](https://t.me/arthurnunesc). <br>
-- I blog about my journey in Tech in [dev.to](https://dev.to/arthurnunesc).
-- You can find me on [💼 LinkedIn](https://www.linkedin.com/in/arthurnunesc). <br>
+- You can contact me via [✉️ Email](mailto:arthurnunesc@proton.me) or [💬 Telegram](https://t.me/arthurnunesc).
+- I blog about my journey in Tech at [dev.to](https://dev.to/arthurnunesc).
+- You can find me on [💼 LinkedIn](https://www.linkedin.com/in/arthurnunesc).
 
 ### An overview of some of my projects
 
