@@ -1,8 +1,6 @@
-### Hey there! I'm Arthur, a Data Collection Engineer 🐍
+### Hey there! I'm Arthur, a Web Crawling Engineer 🐍
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
-
-### #OpenToWork.
 
 - You can contact me via [✉️ Email](mailto:arthurnunesc@proton.me) or [💬 Telegram](https://t.me/arthurnunesc).
 - I blog about my journey in Tech at [dev.to](https://dev.to/arthurnunesc).
