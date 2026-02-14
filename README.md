@@ -15,5 +15,3 @@ You can contact me via [✉️ Email](mailto:arthurnunesc@proton.me), and can se
 | [Accento](https://github.com/arthurnunesc/accento) | Backend (Python) | Python Counter | Sorting algorithms | Text analyzer that also counts accents | Aborted |
 | [Portfolio Website](https://github.com/arthurnunesc/arthurnunesc.github.io) | Frontend | HTML, CSS, JavaScript | Responsive Web Design | Responsive portfolio website with interactive hamburger menu | Done |
 <!-- | [My portfolio website](https://github.com/arthurnunesc/arthurnunesc-portfolio-website) | Frontend | React, Sass, Vite | BEM, JSX | Portfolio Website to index my projects | On development | -->
-
-![just a colorful divisory](https://i.imgur.com/waxVImv.png)
